@@ -1,6 +1,6 @@
   <h3 align=center>🪒 I can use these Languages 🪒</h3>
   <div align=center>
-    <a href="http://www.open-std.org/jtc1/sc22/wg14/">
+    <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
       <img src="https://img.shields.io/badge/language-gray?style=plastic&logo=c&logoColor=black">
     </a>
     <a href="https://isocpp.org/">
