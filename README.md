@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @StupidDeveloper05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in windows programing and game engine developement.
+- 👽 My favorite language is C++.
+- 🌱 I’m currently learning win32 api.
