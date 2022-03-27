@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @StupidDeveloper05
+- 🐣 I started programing 2 years ago. (2020)
 - 👀 I’m interested in windows programing and game engine developement.
-- 👽 My favorite language is C++.
+- 😍 My favorite language is C++.
 - 🌱 I’m currently learning win32 api.
