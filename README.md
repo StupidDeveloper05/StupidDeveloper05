@@ -14,7 +14,7 @@
   </div>
   <div>
 - 👋 Hi, I’m @StupidDeveloper05 <br>
-- 🐣 I started programing 2 years (2020 year) ago. <br>
+- 🐣 I started programing 3 years (2020 year) ago. <br>
 - 👀 I’m interested in windows programing and game engine developement. <br>
 - 😍 My favorite language is C++. next is Python. <br>
 - 🌱 I am currently developing the pygsgui library. <br>
