@@ -17,5 +17,6 @@
 - 🐣 I started programing 3 years (2020 year) ago. <br>
 - 👀 I’m interested in windows programing and game engine developement. <br>
 - 😍 My favorite language is C++. next is Python. <br>
-- 🌱 I am currently developing the pygsgui library. <br>
+- 👌 PYGSGUI, the library which I developed is availiable on PyPi.<br>
+- 🐣 I am currently learning how to make game engine with OpenGL. <br>
 </div>
